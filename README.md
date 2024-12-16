@@ -19,7 +19,7 @@ Metrics such as accuracy, precision, and recall are calculated.
 
 ### Visualization
 
-![1000_F_289904951_uGunB0aJjaVjV1sXhEkzoqKPzQMpqgjb](https://github.com/user-attachments/assets/2728795f-71bd-49fc-bf79-0354330b7087)
+<center><img src ="[https://upload.wikimedia.org/wikipedia/commons/0/03/Boy_with_Down_Syndrome.JPG](https://tagawagardens.com/wp-content/uploads/2023/08/TOMATOES-RED-RIPE-VINE-SS-1-scaled.jpg)" width = "800" height = '500'/>
 
 Performance metrics (loss and accuracy) are visualized.
 The confusion matrix is plotted to assess classification performance.
