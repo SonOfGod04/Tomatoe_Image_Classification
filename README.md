@@ -1,4 +1,4 @@
-# Tomatoe_Image_Classification
+# Tomato_Image_Classification
 This repository contains a machine learning pipeline for classifying tomatoes as Ripe or Unripe using Convolutional Neural Networks (CNNs). The project is built in Python and leverages TensorFlow/Keras for model training and evaluation.
 
 ### Data Preparation
